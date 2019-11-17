@@ -1,0 +1,51 @@
+
+body{
+	background-color: #9EFF9F;
+	height: auto;
+	background:url(../img/bg-index.jpg)no-repeat center center fixed ;
+	background-size: cover;
+}
+.gen1{
+	background-color: #ffffff;
+
+	opacity: 0.8;
+	padding-bottom: 5px;
+}
+.gen2{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #ffffff;
+	opacity: 0.8;
+
+}
+.formulario{
+	padding: 20px;
+}
+.cont{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input{height: 30px;}
+
+
+.logoStart{
+
+	width: 600px;
+
+	}
+
+footer{
+
+	background-color: #1C1C1C;
+	margin-top: 20px;
+	color: white;
+	padding-bottom: 5px;
+
+}
+
+
+.warning{
+
+	color: red;
+}
